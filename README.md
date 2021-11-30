@@ -1,6 +1,8 @@
 # Candy Crush App Made with React
 
 Check out the project here: https://benmrtnzcandycrush.netlify.app
+![image](https://user-images.githubusercontent.com/56284093/144018449-f68da347-38bf-4bf6-b7b0-1e1d2ed6f085.png)
+
 
 ## What it is
 
